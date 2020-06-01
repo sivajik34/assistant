@@ -1,6 +1,6 @@
 {
   "name": "@sivajik34/assistant",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publishConfig": {
     "access": "public"
   },
@@ -13,7 +13,7 @@
     "lib/*"
   ],
   "scripts": {
- 
+"publish:npm": "rm -rf dist && mkdir dist &&  babel ./src/components -d dist --copy-files" 
   },
   "repository": "github:sivajik34/pwa-studio-assistant",
   "author": "Sivakumar Koduru",
