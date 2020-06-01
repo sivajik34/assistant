@@ -15,7 +15,7 @@
   "scripts": {
 "publish:npm": "rm -rf dist && mkdir dist &&  babel ./src/components -d dist --copy-files" 
   },
-  "repository": "github:sivajik34/pwa-studio-assistant",
+  "repository": "github:sivajik34/assistant",
   "author": "Sivakumar Koduru",
   "license": "(OSL-3.0 OR AFL-3.0)",
   "bugs": {
