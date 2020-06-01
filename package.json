@@ -19,9 +19,9 @@
   "author": "Sivakumar Koduru",
   "license": "(OSL-3.0 OR AFL-3.0)",
   "bugs": {
-    "url": "https://github.com/sivajik34/pwa-studio-assistant/issues"
+    "url": "https://github.com/sivajik34/assistant/issues"
   },
-  "homepage": "https://github.com/sivajik34/pwa-studio-assistant",
+  "homepage": "https://github.com/sivajik34/assistant",
   "dependencies": {},
   "devDependencies": {
     "@magento/peregrine": "~6.0.0",
