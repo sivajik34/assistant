@@ -1,0 +1,7 @@
+# TODO: get only active categories from graphql when it is ready
+query categoryList($name: String!) {
+    categoryList(filters:{ name: { match: $name } }) {
+        url_key
+        }
+    }
+
