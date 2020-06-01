@@ -1,6 +1,6 @@
 {
   "name": "@sivajik34/assistant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -27,27 +27,17 @@
     "@magento/peregrine": "~6.0.0",
     "@magento/pwa-buildpack": "~5.1.1",
     "@magento/venia-ui": "~3.0.0",
-    "@storybook/react": "~5.2.6",
-    "jarallax": "~1.11.1",
-    "load-google-maps-api": "~2.0.1",
-    "lodash.escape": "~4.0.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
-    "react-slick": "~0.25.2",
-    "react-tabs": "~3.0.0",
-    "react-test-renderer": "~16.9.0"
+    "react-slick": "~0.25.2"
   },
   "peerDependencies": {
     "@magento/babel-preset-peregrine": "~1.0.1",
     "@magento/peregrine": "~6.0.0",
     "@magento/pwa-buildpack": "~5.1.1",
     "@magento/venia-ui": "~3.0.0",
-    "jarallax": "~1.11.1",
-    "load-google-maps-api": "~2.0.1",
-    "lodash.escape": "~4.0.1",
     "react": "~16.9.0",
-    "react-slick": "~0.25.2",
-    "react-tabs": "~3.1.0"
+    "react-slick": "~0.25.2"
   } 
   
 }
