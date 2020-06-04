@@ -1,6 +1,6 @@
 {
   "name": "@sivajik34/assistant",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publishConfig": {
     "access": "public"
   },
@@ -28,16 +28,14 @@
     "@magento/pwa-buildpack": "~5.1.1",
     "@magento/venia-ui": "~3.0.0",
     "react": "~16.9.0",
-    "react-dom": "~16.9.0",
-    "react-slick": "~0.25.2"
+    "react-dom": "~16.9.0"    
   },
   "peerDependencies": {
     "@magento/babel-preset-peregrine": "~1.0.1",
     "@magento/peregrine": "~6.0.0",
     "@magento/pwa-buildpack": "~5.1.1",
     "@magento/venia-ui": "~3.0.0",
-    "react": "~16.9.0",
-    "react-slick": "~0.25.2"
+    "react": "~16.9.0"
   } 
   
 }
